@@ -25,6 +25,11 @@ Return `None` if the input is even number or negative (as it is not possible to 
 ```
 
 
+Running Tests
+----------
+Tests are located in the `tests` directory. To run Diamond related tests use `python -m unittest tests.test_diamond`
+
+
 Authors
 ----------
 * **Denis Z.** &#8212; *Initial work* &#8212; [d2718nis](https://github.com/d2718nis)
